@@ -1,0 +1,2 @@
+<button form="code-search-feedback-form" data-action="click:qbsearch-input#submitFeedback" type="submit" data-view-component="true" class="btn-primary btn" style="">    Submit feedback
+</button>

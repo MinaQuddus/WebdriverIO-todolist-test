@@ -1,0 +1,6 @@
+{
+  "script": "return ((el) => {\r\n            el.scrollIntoView();\r\n        }).apply(null, arguments)",
+  "args": [
+    {}
+  ]
+}
