@@ -1,4 +1,4 @@
-# ✅ Todo List App - WebdriverIO Test Automation
+## ✅ Todo List App - WebdriverIO Test Automation
 
 This project uses **WebdriverIO** to automate the testing of a **Todo List web application**. It verifies core user actions like adding tasks, deleting them, and checking task behavior.
 
